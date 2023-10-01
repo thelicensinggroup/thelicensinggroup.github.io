@@ -1,3 +1,12 @@
+Ritchey Permissive License v6|/ritchey-permissive-license-v6/|license|Permissive License,License||
+Ritchey Permissive License v7|/ritchey-permissive-license-v7/|license|Permissive License,License||
+Ritchey Permissive License v8|/ritchey-permissive-license-v8/|license|Permissive License,License||
+Ritchey Permissive License v9|/ritchey-permissive-license-v9/|license|Permissive License,License||
+Ritchey Permissive License v10|/ritchey-permissive-license-v10/|license|Permissive License,License||
+Ritchey Permissive License v11|/ritchey-permissive-license-v11/|license|Permissive License,License||
+Ritchey Permissive License v12|/ritchey-permissive-license-v12/|license|Permissive License,License||
+Ritchey Permissive License v13|/ritchey-permissive-license-v13/|license|Permissive License,License||
+Ritchey Permissive License v14|/ritchey-permissive-license-v14/|license|Permissive License,License||
 Home|/|page|||
 About Us|/pages/about-us.html|page|Meta||
 Contact Us|/pages/contact-us.html|page|Meta||
