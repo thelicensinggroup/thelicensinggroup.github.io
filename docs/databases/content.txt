@@ -1,3 +1,4 @@
+The Public Domain Pledge|/the-public-domain-pledge/|license|Public Domain Dedication,Crayon Dedication||
 CC0 1.0 Universal|/cc0-1.0-universal/|license|Public Domain Dedication,Permissive License,License||
 Comprehensible Open License 1.0|/comprehensible-open-license-1.0/|license|Permissive License,License||
 Comprehensible Open License 2.0|/comprehensible-open-license-2.0/|license|Permissive License,License||
