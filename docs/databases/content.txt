@@ -1,3 +1,5 @@
+Ritchey Permissive License v16|/ritchey-permissive-license-v16/|license|Permissive License,License||
+Microsoft Public License|/microsoft-public-license/|license|Permissive License,License||
 The Public Domain Pledge|/the-public-domain-pledge/|license|Public Domain Dedication,Crayon Dedication||
 CC0 1.0 Universal|/cc0-1.0-universal/|license|Public Domain Dedication,Permissive License,License||
 Comprehensible Open License 1.0|/comprehensible-open-license-1.0/|license|Permissive License,License||
