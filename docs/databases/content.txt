@@ -1,3 +1,4 @@
+Business Source License 1.1||/business-source-license-1.1/|license|Free Software License,License||
 Ritchey Permissive License v16|/ritchey-permissive-license-v16/|license|Permissive License,License||
 Microsoft Public License|/microsoft-public-license/|license|Permissive License,License||
 The Public Domain Pledge|/the-public-domain-pledge/|license|Public Domain Dedication,Crayon Dedication||
